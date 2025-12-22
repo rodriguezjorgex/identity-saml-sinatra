@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 
 ruby '~> 3.1.4'
 
-gem 'aws-sdk-s3', '~> 1.30'
+gem 'aws-sdk-s3', '~> 1.208', '>= 1.208.0'
 gem 'dotenv'
 gem 'hashie'
 gem 'mocha'
